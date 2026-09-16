@@ -1,5 +1,5 @@
 # Creditly Applicant Pool Analysis
-
+![alt text](image.png)
 ## Overview
 
 LoanPay launched **Creditly**, its digital loan application platform, backed by an aggressive marketing campaign designed to drive loan applications. A surge in applications means little and can be dangerous if the campaign disproportionately pulled in high-risk applicants rather than the financially sound customers LoanPay intended to reach.
